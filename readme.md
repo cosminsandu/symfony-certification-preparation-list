@@ -5,33 +5,33 @@ permalink: /
 
 # Symfony Certification Preparation List
 
-When looking for a guide to prepare myself for a Symfony certification, I couldn't find a lot. So I've decided to start
-this project to help people find everything they need.
+> **_Disclaimer_**: the Symfony Certification is for advanced Symfony developers only with at least a few years of experience. 
+> As a consequence, the Symfony 6 Certification Online Coaching is designed for this audience.
 
-If you're looking for other people who are interested (or have) certification. Please check the #certification channel
-at the Symfony Devs Slack. [Request an invitation here](https://symfony.com/slack-invite)
+The exam topics are copied from the **[official exam topics](https://certification.symfony.com/exams/symfony.html)**.
+The master branch contains information for the **6.0** certification.
+
+**_NOTE_**: The Symfony 6 Certification exam only includes questions about Symfony 6.0 and 
+not about Symfony 6.1, 6.2, 6.3 and 6.4 versions.
+
+If you're looking for other people who are interested (or have) certification. Please check the [#certification](https://symfony-devs.slack.com/archives/CCFTMM2DC) channel at the Symfony Devs Slack. [Request an invitation here](https://symfony.com/slack-invite)
 
 Please help add new links/info. We currently have not all topics covered. For more information refer to the
 [Contributing page](contributing.md).
 
-The exam topics are copied from the **[official exam topics](https://certification.symfony.com/)**. 
-The master branch contains information for the **6.0** certification. For 5.0, 4.0 and 3.0, please see the other branches.
-
-> Disclaimer: the Symfony Certification is for advanced Symfony developers only with at least a few years of experience. As a consequence, the Symfony 6 Certification Online Coaching is designed for this audience.
-
 ## Table of Contents
 
-- [ ] [PHP and Web Security](/topics/php-and-web-security.md)
-    - [ ] [PHP API up to PHP 8.1 version](/topics/php-and-web-security.md#php-api-up-to-php-81-version)
-    - [ ] [Object Oriented Programming](/topics/php-and-web-security.md#object-oriented-programming)
-    - [ ] [Namespaces](/topics/php-and-web-security.md#namespaces)
-    - [ ] [Interfaces](/topics/php-and-web-security.md#interfaces)
-    - [ ] [Anonymous functions and closures](/topics/php-and-web-security.md#anonymous-functions-and-closures)
-    - [ ] [Abstract classes](/topics/php-and-web-security.md#abstract-classes)
-    - [ ] [Exception and error handling](/topics/php-and-web-security.md#exception-and-error-handling)
-    - [ ] [Traits](/topics/php-and-web-security.md#traits)
-    - [ ] [PHP extensions](/topics/php-and-web-security.md#php-extensions)
-    - [ ] [SPL](/topics/php-and-web-security.md#spl)
+- [ ] [PHP](/topics/php.md)
+    - [ ] [PHP API up to PHP 8.1 version](/topics/php.md#php-api-up-to-php-81-version)
+    - [ ] [Object Oriented Programming](/topics/php.md#object-oriented-programming)
+    - [ ] [Namespaces](/topics/php.md#namespaces)
+    - [ ] [Interfaces](/topics/php.md#interfaces)
+    - [ ] [Anonymous functions and closures](/topics/php.md#anonymous-functions-and-closures)
+    - [ ] [Abstract classes](/topics/php.md#abstract-classes)
+    - [ ] [Exception and error handling](/topics/php.md#exception-and-error-handling)
+    - [ ] [Traits](/topics/php.md#traits)
+    - [ ] [PHP extensions](/topics/php.md#php-extensions)
+    - [ ] [SPL](/topics/php.md#spl)
 - [ ] [HTTP](/topics/http.md)
     - [ ] [Client / Server interaction](/topics/http.md#client--server-interaction)
     - [ ] [Status codes](/topics/http.md#status-codes)

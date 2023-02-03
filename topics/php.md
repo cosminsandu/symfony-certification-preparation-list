@@ -1,9 +1,9 @@
 ---
-title: PHP and Web Security - Symfony Certification Preparation List
+title: PHP - Symfony Certification Preparation List
 ---
 [Back to index](../readme.md#table-of-contents)
 
-# PHP and Web Security
+# PHP
 
 ## PHP API up to PHP 8.1 version
 - [PHP Watch by version](https://php.watch/versions)
@@ -26,6 +26,8 @@ title: PHP and Web Security - Symfony Certification Preparation List
 ## Namespaces
 - [PHP Namespaces in 120 seconds - symfonycasts.com](https://symfonycasts.com/screencast/php-namespaces-in-120-seconds)
 - [Namespaces - php.net](http://php.net/manual/en/language.namespaces.php)
+- [Using namespaces: Basics - php.net](https://www.php.net/manual/en/language.namespaces.basics.php)
+- [Name resolution rules - php.net](https://www.php.net/manual/en/language.namespaces.rules.php)
 
 ## Interfaces
 - [Object Interfaces - php.net](http://php.net/manual/en/language.oop5.interfaces.php)
@@ -42,12 +44,14 @@ title: PHP and Web Security - Symfony Certification Preparation List
 ## Exception and error handling
 - [Exception (class) - php.net](http://php.net/manual/en/class.exception.php)
 - [Exceptions - php.net](http://php.net/manual/en/language.exceptions.php)
+- [error_reporting - php.net](https://www.php.net/manual/en/function.error-reporting)
 
 ## Traits
 - [Traits - php.net](http://php.net/manual/en/language.oop5.traits.php)
 
 ## PHP extensions
 - [Extensions (sorted by Membership) - php.net](http://php.net/manual/en/extensions.membership.php)
+- [Command line options - php.net](https://www.php.net/manual/en/features.commandline.options.php)
 
 ## SPL
 - [Standard PHP Library - php.net](http://php.net/book.spl)
